@@ -11,7 +11,7 @@ const convertFahrToCelsius=(r)=>{
 }
 // Calling the Function
 console.log('Question 1, Answer!')
-convertFahrToCelsius(4);
+convertFahrToCelsius(0);
 console.log('')
 
 
@@ -63,4 +63,4 @@ const checkYuGiOh =(input)=>{
 
 // Calling the Function
 console.log('Question 2, Answer!')
-checkYuGiOh(10)
+checkYuGiOh(5)
